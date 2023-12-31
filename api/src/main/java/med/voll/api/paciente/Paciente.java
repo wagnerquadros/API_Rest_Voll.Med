@@ -3,6 +3,7 @@ package med.voll.api.paciente;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
+import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import med.voll.api.endereco.Endereco;
@@ -12,6 +13,7 @@ import med.voll.api.endereco.Endereco;
 @Getter
 @NoArgsConstructor
 @AllArgsConstructor
+@EqualsAndHashCode(of = "id")
 public class Paciente {
 
     @Id
@@ -31,5 +33,6 @@ public class Paciente {
         this.email = dados.email();
         this.telefone = dados.telefone();
         this.cpf = dados.cpf();
+        this.endereco = new Endereco(dados.endereco());
     }
 }
