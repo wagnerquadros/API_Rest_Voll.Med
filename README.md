@@ -2,6 +2,12 @@
 
 _API REST_ utilizando Spring Boot desenvolvida na formação "Java e _String Boot_" da Alura.
 
+## Tecnologias Utilizadas
+
+- Java
+- Spring Boot
+- Maven
+
 ## Estrutura do Projeto
 
 #### Configurações:
