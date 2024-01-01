@@ -13,6 +13,7 @@ _API REST_ utilizando Spring Boot desenvolvida na formação "Java e _String Boo
   - _Flayway Migration_
   - _MySQL Driver_
   - _Validation_
+  - _Spring Security_
 
 
 - `Como executar`: executar a classe `src/main/java/med.voll.api/ApiApplication`.  
