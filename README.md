@@ -8,10 +8,10 @@ _API REST_ utilizando Spring Boot desenvolvida na formação "Java e _String Boo
 - Spring Boot
 - Maven
 
-## Patterns
-- Model View Controller (MVC)
-- Data Transfer Object (DTO)
-- JSON Web Token
+## _Patterns_
+- _Model View Controller_ (MVC)
+- _Data Transfer Object_ (DTO)
+- _JSON Web Token_
 
 ## Estrutura do Projeto
 
