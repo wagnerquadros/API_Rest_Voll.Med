@@ -11,6 +11,9 @@ _API REST_ utilizando Spring Boot desenvolvida na formação "Java e _String Boo
 ## _Patterns_
 - _Model View Controller_ (MVC)
 - _Data Transfer Object_ (DTO)
+- Entidade JPA
+- _Repository_
+- _Migration_
 - _JSON Web Token_
 
 ## Estrutura do Projeto
